@@ -76,7 +76,7 @@ Execute the main Python script to perform both analyses:
 
 ```bash
 python src/imdb_sentiment_analyzer.py
-
+```
 
 <img width="507" alt="image" src="https://github.com/user-attachments/assets/239e674f-2cc3-4bbb-b636-753fce661907" />
 <img width="421" alt="image" src="https://github.com/user-attachments/assets/c00f08c0-df22-4294-a73b-708e1117aa62" />
