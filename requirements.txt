@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+nltk
+wordcloud
+matplotlib
+seaborn
+transformers>=4.0.0 # Specify a reasonable minimum version
+torch>=1.8.0      # Specify a reasonable minimum version (consider CPU/GPU variants)
+# torchaudio        # Often installed with torch, add if needed explicitly
+# torchvision       # Often installed with torch, add if needed explicitly
+tqdm
+kaggle
